@@ -1,0 +1,9 @@
+data/*
+!data/.gitkeep
+models/
+figures/
+results.json
+report_assets.zip
+report/results.tex
+__pycache__/
+.streamlit/secrets.toml
